@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266786331906",
+    "project_id": "tinytasks-4dc53",
+    "storage_bucket": "tinytasks-4dc53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266786331906:android:7efe4648d877bf558d761b",
+        "android_client_info": {
+          "package_name": "com.rcc.tinytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266786331906-s1bh9c36uv8c727b63fj0jf80ctj9c3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rcc.tinytasks",
+            "certificate_hash": "293f8524fc2fdb766596444a8ddc159bcb0b8ea1"
+          }
+        },
+        {
+          "client_id": "266786331906-nn28bc476rv00ert0ca6g72j8miv0iuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ozkJE5MTg5rLlrgWbMbLQE9nE4Dp6Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266786331906-nn28bc476rv00ert0ca6g72j8miv0iuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
